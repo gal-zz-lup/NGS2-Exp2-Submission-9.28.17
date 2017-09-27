@@ -19,7 +19,8 @@ pacman::p_load(multiwayvcov, lmtest, dplyr, reshape2, multiwayvcov, lmtest, Hmis
 
 <br />
 This is a fully reproducible *Rmarkdown notebook* describing the design, 
-results, and conclusions of NGS2 WITNESS Cycle 1 Experiment 2.  This is a partial submission with the data collected up until September 28, 2017. A full submission will follow at a later date. 
+results, and conclusions of NGS2 WITNESS Cycle 1 Experiment 2. This is a partial submission for the September 28 deadline, with a limited sample. As such, the results of our analyses are underpowered. We expect to conduct further data collection and submit a final set of results.
+
 <br />
 
 Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. 
